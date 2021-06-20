@@ -31,3 +31,7 @@ console.log(validateEmail(emailAdress));
 
 // let phoneNumber = "+31636363634";
 // console.log(validatePhone(phoneNumber));
+
+// buat commit git file harus = git commit -m "file"
+
+console.log(validateEmail(emailAdress));
