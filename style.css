@@ -1,0 +1,164 @@
+.pages {
+    width: 100%;
+    margin: 0px;
+    padding: 0px 10px;
+
+}
+
+header {
+    background-color: palegoldenrod;
+    width: auto;
+    height: auto;
+    padding: 20px;
+
+}
+
+header .title{
+    font-size: 30pt;
+    font-weight: 600;
+    color:brown;
+    
+}
+
+header .navbar {
+    font-size: 12pt;
+    font-weight: 600;
+    color: palegoldenrod;
+}
+
+a{
+    color:palevioletred !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: brown !important;
+}
+
+.testimony{
+    margin: 20px 0px;
+    padding: 20px;
+}
+
+.testimony .title{
+    font-size: 25pt;
+    font-weight: 500;
+    text-align: center;
+}
+
+.testimony .desc{
+    font-size: 18pt;
+    font-weight: 500;
+    text-align: center;
+}
+
+.testimony .cust{
+    font-size: 18pt;
+    font-weight: 600;
+    text-align: right;
+}
+
+.banner {
+    background-image: url('./assets/450c7f2deee4bb28f1b8ff65cb694ef5.jpg');
+    width: auto;
+    height: 500px;
+    position: relative;
+    padding: 20px;
+    background-repeat: round;
+}
+
+.form {
+    margin-top: 50px;
+    margin-right: 100px;
+    float: right;
+    border: solid 2px white;
+    width: 40%;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: beige; 
+}
+
+.form p{
+    font-size: 16pt;
+    color: brown;
+    font-weight: 600px;
+
+}
+
+.form .input-form {
+    margin: 10px 0px;
+}
+
+.about-us{
+    margin: 20px 0px;
+    padding: 20px;
+}
+
+.about-us .title {
+    font-size: 16pt;
+    color: brown;
+    font-weight: 600;
+    text-align: center;
+}
+
+.about-us .desc{
+    font-size: 14pt;
+    font-weight: 500;
+    text-align: justify;
+}
+
+.about-us .read-more {
+    text-decoration: underline;
+    font-size: 10pt;
+    font-weight: 600;
+    color: brown;
+
+}
+
+.about-us .read-more:hover {
+    color:palegoldenrod;
+}
+
+.why-us .header{
+    font-size: 25pt;
+    text-align: center;
+    font-weight: 600;
+}
+
+
+
+.why-us .title{
+    font-size: 16pt;
+    font-weight: 600;
+    text-align: center;
+}
+
+.why-us .desc {
+    font-size: 15pt;
+    font-weight: 600;
+    text-align: center;
+}
+
+.why-us .col-md-6:hover {
+    padding: 25px;
+    color:brown;
+    background-color: palegoldenrod;
+}
+
+footer{
+    background-color: black;
+    color: palevioletred;
+    height: auto;
+    width: auto;
+    padding: 20px;
+
+}
+
+footer li{
+    list-style-type: none;
+}
+
+footer ul{
+    list-style-type: none;
+}
+
